@@ -1,1 +1,0 @@
-#This project demonstrates an advanced webpack configuration

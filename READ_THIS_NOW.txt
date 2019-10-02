@@ -1,0 +1,1 @@
+Dont forget to add env files and build folder(public) to gitignore
